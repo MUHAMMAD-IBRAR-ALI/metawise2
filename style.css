@@ -1,0 +1,21 @@
+.flag {
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+  }
+  
+  .flag .white {
+    width: 100%;
+    height: 50%;
+    background-color: #FFFFFF;
+  }
+  
+  .flag .red {
+    width: 100%;
+    height: 50%;
+    background-color: #FFC080;
+  }
+  
+  
+ 
+  
